@@ -5,4 +5,4 @@
 <p>&nbsp;</p>
 <p>Join our discord for more updates:&nbsp; <a href="https://discord.gg/8nUMwsj/"> discord.gg/8nUMwsj </a></p>
 <h2> Current Progress</h2>
-<p> About half of the models for the the FPS are made, these include; Assault Rifles, Snipers, the player model and more. Below you will find a sneak peak at one of the models.<p>
+<p> About half of the models for the the FPS are made, these include; Assault Rifles, Snipers, the player model and more. Below you will find occasional sneak peaks.<p>
